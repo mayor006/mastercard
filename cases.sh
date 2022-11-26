@@ -3,3 +3,4 @@ aws
 git
 maven
 tomcat
+jenkins
